@@ -15,7 +15,7 @@
   <p>HTML 5</p>
   <a href="https://www.w3schools.com/css/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="" width=50px</a>
   <p>CSS 3</p>
-  <a href="https://www.w3schools.com/html/"><img src="https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" alt=" " width=50px,</a>
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" alt=" " width=50px,</a>
   <p>Python</p>
     
 <h1> Frameworks </h1>
