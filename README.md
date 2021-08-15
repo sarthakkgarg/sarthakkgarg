@@ -1,4 +1,11 @@
-<h1> Hello! My name is Sarthak Garg </h>
+
+<h1> Hello! My name is Sarthak Garg </h1>
+
+<p> Exceptionally creative and dependable Entry Level Web Developer.
+  Broadly and deeply knowledgeable in a wide variety of computer languages as well as the principles and techniques of website construction and maintenance. 
+ 
+</p>
+
 <h2>
 
 <h1> Languages </h1>
@@ -6,7 +13,7 @@
    <img width=50px src="https://www.vnurture.in/wp-content/uploads/2019/09/html5-icon-13.png" alt="" </img>
    <img width=50px src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="" </img>
    <img width=50px src="https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" alt="" </img>
-   
+
 <h1> Frameworks </h1>
 <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="" </img>
  <img width=50px src="https://i2.wp.com/chandanbhagat.com.np/wp-content/uploads/2021/05/nodejs-45adbe594d.png?fit=512%2C512&ssl=1" alt="" </img>
