@@ -9,7 +9,7 @@
 <h2>
 
 <h1> Languages </h1>
-  <a href-"https://www.google.com/search?q=javascript&oq=ja&aqs=chrome.0.69i59l3j69i57j0i67j69i60l3.1193j0j7&sourceid=chrome&ie=UTF-8"><img width=50px src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="" </img> </a>
+  <a href-"https://www.google.com/search?q=javascript&oq=ja&aqs=chrome.0.69i59l3j69i57j0i67j69i60l3.1193j0j7&sourceid=chrome&ie=UTF-8"><img width=50px src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="" ></a>
    <img width=50px src="https://www.vnurture.in/wp-content/uploads/2019/09/html5-icon-13.png" alt="" </img>
    <img width=50px src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="" </img>
    <img width=50px src="https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" alt="" </img>
