@@ -9,26 +9,41 @@
 <h2>
 
 <h1> Languages </h1>
-  <a href-"https://www.google.com/search?q=javascript&oq=ja&aqs=chrome.0.69i59l3j69i57j0i67j69i60l3.1193j0j7&sourceid=chrome&ie=UTF-8"><img width=50px src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="" ></a>
-   <img width=50px src="https://www.vnurture.in/wp-content/uploads/2019/09/html5-icon-13.png" alt="" </img>
-   <img width=50px src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="" </img>
-   <img width=50px src="https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" alt="" </img>
-
+<a href="https://www.w3schools.com/js/"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt=" " width=50px, text-decoration=none</a>
+  <p>JavaScript</p>
+  <a href="https://www.w3schools.com/html/"><img src="https://www.vnurture.in/wp-content/uploads/2019/09/html5-icon-13.png" alt=" " width=50px</a>
+  <p>HTML 5</p>
+  <a href="https://www.w3schools.com/css/"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="" width=50px</a>
+  <p>CSS 3</p>
+  <a href="https://www.w3schools.com/html/"><img src="https://freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png.png" alt=" " width=50px,</a>
+  <p>Python</p>
+    
 <h1> Frameworks </h1>
-<img width=50px src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="" </img>
- <img width=50px src="https://i2.wp.com/chandanbhagat.com.np/wp-content/uploads/2021/05/nodejs-45adbe594d.png?fit=512%2C512&ssl=1" alt="" </img>
- <img width=60px src="https://www.stevehcao.com/images/techDeck/Expressjs.png" alt="" </img>
+<a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt=" " width=50px,</a>
+  <p>ReactJS</p>
+  <a href="https://www.w3schools.com/nodejs/"><img src="https://i2.wp.com/chandanbhagat.com.np/wp-content/uploads/2021/05/nodejs-45adbe594d.png?fit=512%2C512&ssl=1" alt=" " width=50px,</a>
+  <p>NodeJS</p>
+  <a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://www.stevehcao.com/images/techDeck/Expressjs.png" alt=" " width=50px,</a>
+  <p>ExpressJS</p>
+    
+ 
+ 
 
 <h1> Libraries </h1>
-<img width=50px src="https://material-ui.com/static/logo.png" alt="" </img>
-<img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="" </img>
-<img width=50px src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" alt="" </img>
-<img width=50px src="https://raw.githubusercontent.com/plouc/nivo/master/nivo.png" alt="" </img>
+ <a href="https://material-ui.com/"><img src="https://material-ui.com/static/logo.png" alt=" " width=50px,</a>
+  <p>MaterialUI</p>
+<a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt=" " width=50px,</a>
+  <p>MaterialUI</p>
+  <a href="https://en.wikipedia.org/wiki/D3.js"><img src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" alt=" " width=50px,</a>
+  <p>D3.JS</p>
+    <a href="https://nivo.rocks/"><img src="https://raw.githubusercontent.com/plouc/nivo/master/nivo.png" alt=" " width=50px,</a>
+  <p>Nivo</p>
+    
+    
 
 <h1> Database </h1>
- <img width=50px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="" </img>
-  <img width=30px src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="" </img>
-<!---
-sarthakkgarg/sarthakkgarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+      <a href="https://en.wikipedia.org/wiki/MongoDB"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt=" " width=50px,</a>
+  <p>MongoDB</p>
+    <a href="https://en.wikipedia.org/wiki/Firebase"><img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt=" " width=50px,</a>
+  <p>Firebase</p>
+
