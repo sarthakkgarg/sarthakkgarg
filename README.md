@@ -1,5 +1,5 @@
 
-<h1> Hello! My name is Sarthak Garg </h1>
+<h1> Hello! 👋 My name is Sarthak Garg </h1>
 
 <p> Exceptionally creative and dependable Entry Level Web Developer.
   Broadly and deeply knowledgeable in a wide variety of computer languages as well as the principles and techniques of website construction and maintenance. 
